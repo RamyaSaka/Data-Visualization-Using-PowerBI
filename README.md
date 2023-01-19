@@ -18,17 +18,21 @@ In this project, for HR analysis requirement, I have created few visualizations 
 
 1. **KPI metrics** - Created KPI metrics for
 
-a. Total number of employees.
-b. Number of male employees and their percentage.
-c. Number of female employess and their percentage.
-d. Number of employess due for promotion and their percentage.
-e. Number of employess not due for promotion and their percentage.
-f. Number of employees on service and their percentage.
-g. Number of employess to be retrenched and their percentage.
+i. Total number of employees.
+ii. Number of male employees and their percentage.
+iii. Number of female employess and their percentage.
 
 ![image](https://user-images.githubusercontent.com/121084757/213405568-c6f4576f-9f1f-4e14-b5f7-5272b40086b5.png)
 
+
+iv. Number of employess due for promotion and their percentage.
+v. Number of employess not due for promotion and their percentage.
+
 ![image](https://user-images.githubusercontent.com/121084757/213405640-499c3d04-cdb2-47c4-8fab-47b76b3cc182.png)
+
+
+f. Number of employees on service and their percentage.
+g. Number of employess to be retrenched and their percentage.
 
 ![image](https://user-images.githubusercontent.com/121084757/213405685-3dcef07c-b4f3-45d8-ae38-7595857f604d.png)
 
