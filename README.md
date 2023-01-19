@@ -12,7 +12,13 @@ In this project, for HR analysis requirement, I have created few visualizations 
 <h1> Dataset Used </h1>
 
    HR Analytics Data.csv
-   
+
+
+
+<h1> Visualization </h1>
+
+![image](https://user-images.githubusercontent.com/121084757/213361532-0a32565e-3a8e-436c-a914-135f72caa72e.png)
+
    
 <h1>Summary</h1>
 
@@ -61,7 +67,3 @@ g. Number of employess to be retrenched and their percentage.
 
 
 
-
-<h1> Visualization </h1>
-
-![image](https://user-images.githubusercontent.com/121084757/213361532-0a32565e-3a8e-436c-a914-135f72caa72e.png)
