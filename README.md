@@ -5,8 +5,7 @@ In this project, for HR analysis requirement, I have created few visualizations 
 
 <h1>Software used </h1>
 
-1. **Data Cleaning and Analysis** - Microsoft Excel
-2. **Data Visualization** - Microsoft PowerBI
+**Microsoft PowerBI** - Data cleaning, analysis and visualization.
 
 
 <h1> Dataset Used </h1>
@@ -17,7 +16,7 @@ In this project, for HR analysis requirement, I have created few visualizations 
 
 <h1> Visualization </h1>
 
-![image](https://user-images.githubusercontent.com/121084757/213361532-0a32565e-3a8e-436c-a914-135f72caa72e.png)
+![image](https://github.com/RamyaSaka/Data-Visualization-Using-PowerBI/assets/121084757/8c999b72-a505-45f6-9612-d2b060c3f8e9)
 
    
 <h1>Summary</h1>
@@ -25,36 +24,38 @@ In this project, for HR analysis requirement, I have created few visualizations 
 1. **KPI metrics** - Created KPI metrics for
 
 i. Total number of employees.
-ii. Number of male employees and their percentage.
-iii. Number of female employess and their percentage.
+ii. Number of male employees.
+iii. Number of female employess.
 
-![image](https://user-images.githubusercontent.com/121084757/213405568-c6f4576f-9f1f-4e14-b5f7-5272b40086b5.png)
+![image](https://github.com/RamyaSaka/Data-Visualization-Using-PowerBI/assets/121084757/d912e33e-9982-4f87-a23d-1452d6d9c195)
 
+iv. Number of employees on service.
+v. Number of employess to be retrenched.
 
-iv. Number of employess due for promotion and their percentage.
-v. Number of employess not due for promotion and their percentage.
-
-![image](https://user-images.githubusercontent.com/121084757/213405640-499c3d04-cdb2-47c4-8fab-47b76b3cc182.png)
-
-
-f. Number of employees on service and their percentage.
-g. Number of employess to be retrenched and their percentage.
-
-![image](https://user-images.githubusercontent.com/121084757/213405685-3dcef07c-b4f3-45d8-ae38-7595857f604d.png)
-
+![image](https://github.com/RamyaSaka/Data-Visualization-Using-PowerBI/assets/121084757/4bc9086a-c2ed-4893-9a3f-a86603201b23)
 
 **Bar chart** - Created bar chart for number of years an employee is in service.
 
-![image](https://user-images.githubusercontent.com/121084757/213406736-82144525-6e3c-4ed4-bf92-f43005f74bbb.png)
+![image](https://github.com/RamyaSaka/Data-Visualization-Using-PowerBI/assets/121084757/d10c9f82-01c2-4789-a056-be15944e6ba4)
 
 **Column chart** - Created column chart for showing total number of employees at variuos job levels.
 
-![image](https://user-images.githubusercontent.com/121084757/213407033-1c44e814-b95e-4258-a249-2ee35d6ad0dc.png)
+![image](https://github.com/RamyaSaka/Data-Visualization-Using-PowerBI/assets/121084757/a8cb2922-8363-4966-a085-ac8528d8d297)
+
+**Donut visualization** - Created Donut visualization for showing total number of employees travelling by variuos distances.
+
+![image](https://github.com/RamyaSaka/Data-Visualization-Using-PowerBI/assets/121084757/93b2d85a-626c-4cea-9d8d-e85b1f208016)
+
+**Stacked Column chart** - Created stacked column chart to show number of employees to be retrenched and will be on service by department.
+
+![image](https://github.com/RamyaSaka/Data-Visualization-Using-PowerBI/assets/121084757/92de6ab1-b180-4465-a22d-bcc6a035d9fb)
+
+**Line chart** - Created line chart  to represent percentage salary hike by performance and department.
+
+![image](https://github.com/RamyaSaka/Data-Visualization-Using-PowerBI/assets/121084757/d28036ee-46fc-4bee-a332-dce36cd8e226)
 
 
-**Donut visualization** - Created Donut visualization for showing total number of employees at variuos job levels.
 
-![image](https://user-images.githubusercontent.com/121084757/213407181-92ce3cdb-87fd-4509-bcbb-5747506e8f23.png)
 
 
 
