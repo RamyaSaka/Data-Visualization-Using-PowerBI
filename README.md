@@ -12,7 +12,9 @@ In this project, for HR analysis requirement, I have created few visualizations 
 
    HR Analytics Data.csv
 
+<h1> Presentation link </h1>
 
+  https://app.powerbi.com/groups/me/reports/707ff35a-9d88-433d-b1e9-da2bb17716f7/ReportSectionec54519c082fb054ceb1?experience=power-bi 
 
 <h1> Visualization </h1>
 
